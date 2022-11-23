@@ -1,5 +1,20 @@
+# what i did
+
+I created the github repo in VS Code on windows 10
+
+I synched it to github
+
+I ran pip install on codespace
+
+Now, I am waiting... the rasa package is huge and heavy...
+
+No joy with rasa on codespaces either.
+
+
+
+
 # no joy with rasa on windows 10
-# errors on install
+## errors on install
 Downloading jsonschema-3.2.0-py2.py3-none-any.whl (56 kB)
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.3/56.3 kB 731.2 kB/s eta 0:00:00Collecting mattermostwrapper<2.3,>=2.2
   Downloading mattermostwrapper-2.2.tar.gz (2.5 kB)
