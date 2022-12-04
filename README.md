@@ -8,7 +8,7 @@ I created the github repo in VS Code on windows 10
 
 I synched it to github
 
-I ran pip install on codespace
+I ran pip install rasa on codespace
 
 Now, I am waiting... the rasa package is huge and heavy...
 
