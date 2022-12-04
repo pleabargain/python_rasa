@@ -2,6 +2,11 @@
 
 ```pip install rasa```
 
+
+I am trying to follow the instructions here
+
+https://rasa.com/docs/rasa/installation/installing-rasa-open-source
+
 @pleabargain ➜ /workspaces/python_rasa (master ✗) $ pip install rasa
 
 I created the github repo in VS Code on windows 10
