@@ -1,5 +1,9 @@
 # what i did
 
+```pip install rasa```
+
+@pleabargain ➜ /workspaces/python_rasa (master ✗) $ pip install rasa
+
 I created the github repo in VS Code on windows 10
 
 I synched it to github
@@ -9,6 +13,10 @@ I ran pip install on codespace
 Now, I am waiting... the rasa package is huge and heavy...
 
 No joy with rasa on codespaces either.
+
+Here's the bug report:
+
+https://github.com/RasaHQ/rasa/issues/11789
 
 
 
