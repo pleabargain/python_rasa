@@ -14,10 +14,14 @@ Now, I am waiting... the rasa package is huge and heavy...
 
 No joy with rasa on codespaces either.
 
+<<<<<<< HEAD
 Here's the bug report:
 
 https://github.com/RasaHQ/rasa/issues/11789
 
+=======
+![image](https://user-images.githubusercontent.com/640846/203529572-329f9597-0e47-41ef-8385-6e1a642dc425.png)
+>>>>>>> origin/master
 
 
 
